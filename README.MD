@@ -1,3 +1,3 @@
 Another new file created
 
-Some changes.Changes done locally
+This line was modified manually during git conflict resolution.
